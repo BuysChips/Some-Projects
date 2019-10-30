@@ -1,0 +1,27 @@
+body{
+    background-color: #d9effc;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    text-align: center;
+    border-bottom-style: dotted;
+    border-bottom-width: 10px;
+    border-bottom-color: #9dabdd;
+}
+
+textarea{
+    height: 300px;
+    width: 90%;
+    border: 3px solid #cccccc;
+    text-align: left;
+    vertical-align: top;
+    overflow-y: scroll;
+    resize: none;
+    padding: 10px;
+    margin: 10px;
+}
+
+#submit{
+    font-size: 10px;
+}
